@@ -1,0 +1,44 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Better JavaScript",
+		"Bootstrap 3 Snippets",
+		"Bower",
+		"BracketHighlighter",
+		"CTags",
+		"DashDoc",
+		"Emmet",
+		"Fix Mac Path",
+		"Gist",
+		"GoldenRatio",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JS Snippets",
+		"JSHint",
+		"JSONLint",
+		"LESS",
+		"LiveStyle",
+		"Package Control",
+		"SaneSnippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-chktex",
+		"SublimeLinter-jshint",
+		"TernJS",
+		"Theme - Soda",
+		"View In Browser"
+	]
+}

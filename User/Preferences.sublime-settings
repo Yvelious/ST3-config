@@ -1,0 +1,19 @@
+{
+	"additional_path_items":
+	[
+		"/usr/local/Cellar/git/2.1.2/libexec/git-core"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Espresso Soda (SL).tmTheme",
+	"font_face": "Meslo LG S",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"JavaScript"
+	],
+	"margin": 10,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"word_wrap": "false"
+}
