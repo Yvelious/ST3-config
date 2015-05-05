@@ -8,8 +8,8 @@
 	"font_size": 14.0,
 	"ignored_packages":
 	[
-		"Vintage",
-		"JavaScript"
+		"JavaScript",
+		"Vintage"
 	],
 	"margin": 10,
 	"soda_classic_tabs": true,
