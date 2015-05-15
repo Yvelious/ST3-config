@@ -4,12 +4,21 @@
 		"/usr/local/Cellar/git/2.1.2/libexec/git-core"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Espresso Soda (SL).tmTheme",
+	"command": "C:/utils/Ctags/ctags.exe",
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags",
+		"node_modules/",
+		"js/library/"
+	],
 	"font_face": "Meslo LG S",
 	"font_size": 14.0,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"Vintage"
+		"Vintage",
+		"JavaScript"
 	],
 	"margin": 10,
 	"soda_classic_tabs": true,
