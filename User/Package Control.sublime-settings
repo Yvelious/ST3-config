@@ -14,6 +14,7 @@
 		"CTags",
 		"DashDoc",
 		"Emmet",
+		"FileDiffs",
 		"Fix Mac Path",
 		"Gist",
 		"GoldenRatio",
@@ -24,6 +25,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JS Snippets",
+		"JSCS-Formatter",
 		"JSHint",
 		"JSONLint",
 		"LESS",
@@ -39,9 +41,13 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"Sublimerge Pro",
 		"TernJS",
 		"Theme - Soda",
+		"TrailingSpaces",
 		"View In Browser"
 	]
 }
