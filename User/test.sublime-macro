@@ -1,0 +1,235 @@
+[
+	{
+		"args": null,
+		"command": "htmlprettify"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"forward": true
+		},
+		"command": "select_lines"
+	},
+	{
+		"args":
+		{
+			"action": "remove_tag"
+		},
+		"command": "run_emmet_action"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args": null,
+		"command": "find_under_expand"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"action": "remove_tag"
+		},
+		"command": "run_emmet_action"
+	}
+]

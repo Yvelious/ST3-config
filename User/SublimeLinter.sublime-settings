@@ -22,6 +22,11 @@
                     30
                 ]
             },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jscs": {
                 "@disable": false,
                 "args": [],

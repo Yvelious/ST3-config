@@ -1,6 +1,9 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc",
+		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
@@ -36,6 +39,7 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"Smarty",
+		"StringEncode",
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeGit",
@@ -45,7 +49,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"Sublimerge Pro",
-		"TernJS",
+		"tern_for_sublime",
 		"Theme - Soda",
 		"TrailingSpaces",
 		"View In Browser"

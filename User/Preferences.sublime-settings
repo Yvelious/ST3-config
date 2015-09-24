@@ -14,11 +14,16 @@
 		"library"
 	],
 	"font_face": "Meslo LG S",
-	"font_size": 11,
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage",
-		"JavaScript"
+		"Batch File",
+		"DashDoc",
+		"Fix Mac Path",
+		"JavaScript",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Vintage"
 	],
 	"margin": 10,
 	"soda_classic_tabs": true,
