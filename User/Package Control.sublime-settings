@@ -1,6 +1,9 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc",
+		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
@@ -14,6 +17,7 @@
 		"CTags",
 		"DashDoc",
 		"Emmet",
+		"FileDiffs",
 		"Fix Mac Path",
 		"Gist",
 		"GoldenRatio",
@@ -24,6 +28,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JS Snippets",
+		"JSCS-Formatter",
 		"JSHint",
 		"JSONLint",
 		"LESS",
@@ -34,14 +39,19 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"Smarty",
+		"StringEncode",
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
-		"TernJS",
+		"Sublimerge Pro",
+		"tern_for_sublime",
 		"Theme - Soda",
+		"TrailingSpaces",
 		"View In Browser"
 	]
 }

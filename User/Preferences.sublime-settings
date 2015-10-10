@@ -10,14 +10,19 @@
 		".tags",
 		".tags_sorted_by_file",
 		".gemtags",
-		"node_modules/",
-		"js/library/"
+		"node_modules",
+		"library"
 	],
 	"font_face": "Meslo LG S",
-	"font_size": 15.0,
+	"font_size": 14,
 	"ignored_packages":
 	[
+		"Batch File",
+		"DashDoc",
+		"Fix Mac Path",
 		"JavaScript",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Vintage"
 	],
 	"margin": 10,
