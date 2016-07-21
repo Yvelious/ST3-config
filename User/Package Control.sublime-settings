@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"DashDoc",
 		"Fix Mac Path"
 	],
 	"installed_packages":
@@ -11,17 +10,15 @@
 		"AutoFileName",
 		"Better JavaScript",
 		"Bootstrap 3 Snippets",
-		"Bower",
 		"BracketHighlighter",
+		"CodeComplice",
 		"CSScomb",
-		"CTags",
 		"DashDoc",
 		"Emmet",
 		"FileDiffs",
 		"Fix Mac Path",
 		"Gist",
 		"GoldenRatio",
-		"Hayaku - tools for writing CSS faster",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"JavaScript Snippets",
@@ -32,7 +29,6 @@
 		"JSHint",
 		"JSONLint",
 		"LESS",
-		"LiveStyle",
 		"Package Control",
 		"SaneSnippets",
 		"Sass",
@@ -41,7 +37,6 @@
 		"Smarty",
 		"StringEncode",
 		"Stylus",
-		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
@@ -49,9 +44,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"Sublimerge Pro",
-		"tern_for_sublime",
 		"Theme - Soda",
-		"TrailingSpaces",
 		"View In Browser"
 	]
 }

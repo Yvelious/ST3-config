@@ -14,13 +14,14 @@
 		"library"
 	],
 	"font_face": "Meslo LG S",
-	"font_size": 14,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Batch File",
-		"DashDoc",
 		"Fix Mac Path",
 		"JavaScript",
+		"JavaScript Snippets",
+		"JS Snippets",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Vintage"
