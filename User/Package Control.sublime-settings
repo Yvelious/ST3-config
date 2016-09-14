@@ -8,6 +8,7 @@
 	[
 		"AdvancedNewFile",
 		"AutoFileName",
+		"Babel",
 		"Better JavaScript",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
@@ -30,6 +31,7 @@
 		"JSONLint",
 		"LESS",
 		"Package Control",
+		"ReactJS",
 		"SaneSnippets",
 		"Sass",
 		"SFTP",
@@ -43,6 +45,7 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"Sublimerge 3",
 		"Sublimerge Pro",
 		"Theme - Soda",
 		"View In Browser"
