@@ -1,9 +1,8 @@
 [
-
 { "keys": ["ctrl+shift+n"], "command": "advanced_new_file"},
 { "keys": ["alt+space"], "command": "golden_ratio"},
 { "keys": ["ctrl+shift+h"], "command": "toggle_side_bar" },
 { "keys": ["ctrl+alt+h"], "command": "htmlprettify"},
-{ "keys": ["ctrl+alt+g"], "command": "encode_html_entities" }
-
+{ "keys": ["ctrl+alt+g"], "command": "encode_html_entities" },
+{"keys": ["ctrl+t"], "command": "glue"}
 ]

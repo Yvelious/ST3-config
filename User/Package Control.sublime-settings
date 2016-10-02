@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"AutoFileName",
+		"Babel",
 		"Better JavaScript",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
@@ -17,7 +18,9 @@
 		"FileDiffs",
 		"Fix Mac Path",
 		"Gist",
+		"Glue",
 		"GoldenRatio",
+		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"JavaScript Snippets",
@@ -30,6 +33,7 @@
 		"LESS",
 		"Package Control",
 		"PHP-Twig",
+		"ReactJS",
 		"SaneSnippets",
 		"Sass",
 		"SFTP",
@@ -43,7 +47,9 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"Sublimerge 3",
 		"Sublimerge Pro",
+		"Terminal",
 		"Theme - Soda",
 		"View In Browser"
 	]

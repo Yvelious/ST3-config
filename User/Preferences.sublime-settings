@@ -3,7 +3,7 @@
 	[
 		"/usr/local/Cellar/git/2.1.2/libexec/git-core"
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Espresso Soda (SL).tmTheme",
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"command": "C:/utils/Ctags/ctags.exe",
 	"file_exclude_patterns":
 	[
@@ -14,7 +14,7 @@
 		"library"
 	],
 	"font_face": "Meslo LG S",
-	"font_size": 16,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Batch File",
@@ -23,6 +23,7 @@
 		"JS Snippets",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"Sublimerge Pro",
 		"Vintage"
 	],
 	"margin": 10,
