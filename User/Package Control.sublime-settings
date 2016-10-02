@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
@@ -30,6 +29,7 @@
 		"JSONLint",
 		"LESS",
 		"Package Control",
+		"PHP-Twig",
 		"SaneSnippets",
 		"Sass",
 		"SFTP",
