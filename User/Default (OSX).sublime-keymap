@@ -1,16 +1,15 @@
 [
 //ST
 	{ "keys": ["super+alt+h"], "command": "toggle_side_bar" },
+            { "keys": ["super+1"], "command": "golden_ratio"},
 
 
-
-
-// EMMET
-{
-        "keys": [
-            "super+;"
+// EMMET    
+{ 
+        "keys": [  
+            "super+;"  
         ],
-        "args": {
+        "args": {         
             "action": "remove_tag"
         },
         "command": "run_emmet_action",

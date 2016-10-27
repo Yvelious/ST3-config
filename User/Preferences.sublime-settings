@@ -14,11 +14,10 @@
 		"library"
 	],
 	"font_face": "Meslo LG S",
-	"font_size": 16,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Batch File",
-		"Fix Mac Path",
 		"JavaScript",
 		"JavaScript Snippets",
 		"JS Snippets",
