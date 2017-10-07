@@ -1,34 +1,10 @@
 {
-	"additional_path_items":
-	[
-		"/usr/local/Cellar/git/2.1.2/libexec/git-core"
-	],
-	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
-	"command": "C:/utils/Ctags/ctags.exe",
-	"file_exclude_patterns":
-	[
-		".tags",
-		".tags_sorted_by_file",
-		".gemtags",
-		"node_modules",
-		"library"
-	],
-	"font_face": "Meslo LG S",
-	"font_size": 17,
+	"color_scheme": "Packages/User/SublimeLinter/Espresso Soda (SL).tmTheme",
 	"ignored_packages":
 	[
-		"Batch File",
+		"Vintage",
 		"JavaScript",
-		"JavaScript Snippets",
-		"JS Snippets",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"Sublimerge Pro",
-		"Vintage"
+		"Sublimerge Pro"
 	],
-	"margin": 10,
-	"soda_classic_tabs": true,
-	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
-	"word_wrap": "false"
+	"theme": "Soda Light 3.sublime-theme"
 }
